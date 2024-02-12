@@ -1,0 +1,3 @@
+[submodule "heatwave_diagnostics_package"]
+	path = heatwave_diagnostics_package
+	url = git@github.com:AgentOxygen/heatwave_diagnostics_package.git
